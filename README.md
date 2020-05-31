@@ -20,6 +20,8 @@ conteo del total de archivo con el patrón, aquellos que lo contengan en cualqui
 aquellos que lo contengan al final.
 Resultado esperado:
 ``Total: 100``
+
 ``Anywhere: 70``
+
 ``end: 30``
 
