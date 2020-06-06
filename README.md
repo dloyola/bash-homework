@@ -25,3 +25,10 @@ Resultado esperado:
 
 ``end: 30``
 
+## 3. anális de palabras
+  - Descargar la pagina html de un poema desde poesi.as utilizando la herramienta wget
+  - Convertir el poema en desde html a codificación utf-8
+  - Identificar el número de palabras que contine el poema
+  - Identificar las 10 palabras mas usadas y el número de repeticiones de estas
+
+
